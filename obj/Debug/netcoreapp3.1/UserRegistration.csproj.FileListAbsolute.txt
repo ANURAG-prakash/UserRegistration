@@ -1,0 +1,13 @@
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.exe
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.deps.json
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.runtimeconfig.json
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.runtimeconfig.dev.json
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.dll
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.pdb
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.AssemblyInfoInputs.cache
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.AssemblyInfo.cs
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.dll
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.pdb
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.genruntimeconfig.cache
+C:\Users\praka\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.csprojAssemblyReference.cache
